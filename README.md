@@ -1,4 +1,4 @@
-# Task Beat / Task Mananer App
+# Task Beat / Task Manager App
 Android application developed using the Kotlin language to simulate a Task Manager or To-Do List app for smartphones, with abilities to create, edit, and delete categories and tasks.
 
 <img src="https://github.com/user-attachments/assets/89451a02-c61d-4c34-a1d3-1715e5be5c51" width=250/>
@@ -17,7 +17,7 @@ Android application developed using the Kotlin language to simulate a Task Manag
 - Snackbar
 - Bottom Sheet
 - Info Dialog
-- Multable List
+- Mutable List
 - Adapter
 - Room Data Base
 - Dispatchers
